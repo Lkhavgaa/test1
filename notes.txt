@@ -1,0 +1,3 @@
+cd-> change directory
+-> to go to another address on your computer you can use this command 
+
